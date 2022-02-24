@@ -5,7 +5,7 @@
 <p align="center">
 <img align="center" src="https://c4.wallpaperflare.com/wallpaper/34/4/853/programmer-coding-developer-wallpaper-thumb.jpg" alt="coding" width="50%" height="25%">
  </p>
-<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" style="max-width: 100%;">>
+<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" style="max-width: 100%;">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
 <br>
 
@@ -15,6 +15,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uchourasiya13&" alt="ujjawal" /></a> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
 <br>
+<p align="center">
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9ea73b4ebcf2edb5567d9eb856dcd447753a57c4bbe334aaca93938979319ffa/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f7469656e6875796e682d746e3f7374796c653d736f6369616c"><img alt="GitHub followers" src="https://camo.githubusercontent.com/9ea73b4ebcf2edb5567d9eb856dcd447753a57c4bbe334aaca93938979319ffa/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f7469656e6875796e682d746e3f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/followers/UChourasiya13?style=social" style="max-width: 100%;"></a>
+&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f50789bb537556db13f0ee9b004836864e1f4fab2ecdd454fde71056f5212435/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7469656e6875796e682d746e3f7374796c653d736f6369616c"><img alt="GitHub User's stars" src="https://camo.githubusercontent.com/f50789bb537556db13f0ee9b004836864e1f4fab2ecdd454fde71056f5212435/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7469656e6875796e682d746e3f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/stars/UChourasiya13?style=social" style="max-width: 100%;"></a>
+ </p> 
 
 <p align="left"> <a href="https://twitter.com/@_iam_ujjawal" target="blank"><img src="https://img.shields.io/twitter/follow/@_iam_ujjawal?logo=twitter&style=for-the-badge" alt="@_iam_ujjawal" /></a> </p>
  <ul dir="auto">
