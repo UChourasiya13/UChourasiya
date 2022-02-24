@@ -18,10 +18,10 @@
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9ea73b4ebcf2edb5567d9eb856dcd447753a57c4bbe334aaca93938979319ffa/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f7469656e6875796e682d746e3f7374796c653d736f6369616c"><img alt="GitHub followers" src="https://camo.githubusercontent.com/9ea73b4ebcf2edb5567d9eb856dcd447753a57c4bbe334aaca93938979319ffa/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f7469656e6875796e682d746e3f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/followers/UChourasiya13?style=social" style="max-width: 100%;"></a>
 &nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f50789bb537556db13f0ee9b004836864e1f4fab2ecdd454fde71056f5212435/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7469656e6875796e682d746e3f7374796c653d736f6369616c"><img alt="GitHub User's stars" src="https://camo.githubusercontent.com/f50789bb537556db13f0ee9b004836864e1f4fab2ecdd454fde71056f5212435/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7469656e6875796e682d746e3f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/stars/UChourasiya13?style=social" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f50789bb537556db13f0ee9b004836864e1f4fab2ecdd454fde71056f5212435/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7469656e6875796e682d746e3f7374796c653d736f6369616c"><img alt="GitHub User's stars" src="https://camo.githubusercontent.com/f50789bb537556db13f0ee9b004836864e1f4fab2ecdd454fde71056f5212435/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7469656e6875796e682d746e3f7374796c653d736f6369616c" data-canonical-src="https://github.com/UChourasiya13?tab=stars" style="max-width: 100%;"></a>
  </p> 
 
-<p align="left"> <a href="https://twitter.com/@_iam_ujjawal" target="blank"><img src="https://img.shields.io/twitter/follow/@_iam_ujjawal?logo=twitter&style=for-the-badge" alt="@_iam_ujjawal" /></a> </p>
+
  <ul dir="auto">
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on my <strong>Python Course</strong></p>
