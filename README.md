@@ -69,7 +69,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2c7594969b06752abd3b22db4591d65b4900c368cf8d57909dca77f203efbec1/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f2537424b6576696e506174656c30342537442f636f756e742e737667"><img src="https://camo.githubusercontent.com/2c7594969b06752abd3b22db4591d65b4900c368cf8d57909dca77f203efbec1/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f2537424b6576696e506174656c30342537442f636f756e742e737667" alt="visitor badge" data-canonical-src="https://profile-counter.glitch.me/%UChourasiya13%7D/count.svg" style="max-width: 100%;">
 </a>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uchourasiya13&show_icons=true&locale=en&layout=compact" alt="uchourasiya13" /></p>
+
 <div>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uchourasiya13&show_icons=true&locale=en" alt="uchourasiya13" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uchourasiya13&" alt="uchourasiya13" /></p>
