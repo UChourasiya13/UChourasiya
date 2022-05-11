@@ -14,5 +14,5 @@ name: gitartwork from a contribution graph
             # Use this username's contribution graph  
             user_name: UChourasiya13
             # Text on contribution graph 
-            text: UJJAWAL
+            text: उज्जवल
        - uses: jasineri/simple-push-action@v1
