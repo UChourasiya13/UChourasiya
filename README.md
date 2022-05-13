@@ -86,6 +86,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
 <br>
  
+ <p align= "center">
 ![Ujjawal's SPOTIFY](https://spotify-recently-played-readme.vercel.app/api?user=31boqyy5rhavb5ereyf5wqwexswq)
-
-
+</p>
