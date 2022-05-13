@@ -88,3 +88,5 @@
  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31boqyy5rhavb5ereyf5wqwexswq)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31boqyy5rhavb5ereyf5wqwexswq&count={count})
+
