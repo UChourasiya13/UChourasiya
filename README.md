@@ -89,7 +89,10 @@
  <div>
 
 ![Ujjawal's SPOTIFY](https://spotify-recently-played-readme.vercel.app/api?user=31boqyy5rhavb5ereyf5wqwexswq)
-  
-  https://tenor.com/bouA9.gif
+ 
+<p align="right">
+<img align="center" src="https://cdn.pixabay.com/photo/2020/02/02/03/43/young-4811941_1280.png" alt="MUSIC" width="50%" height="25%">
+</p>
+ 
 
 </div>
