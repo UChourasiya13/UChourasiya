@@ -86,8 +86,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
 <br>
 
-<div>
 
-![Ujjawal's SPOTIFY](https://spotify-recently-played-readme.vercel.app/api?user=31boqyy5rhavb5ereyf5wqwexswq)&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" margin-bottom="100px" src="https://cdn.pixabay.com/photo/2020/02/02/03/43/young-4811941_1280.png" alt="MUSIC" width="50%" height="25%">
-
-</div>
