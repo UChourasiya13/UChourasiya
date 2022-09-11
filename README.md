@@ -32,7 +32,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <strong><a href="mailto:ujjawalchourasiya40287.com">ujjawalchourasiya40287.com</a></strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> What I like to do: <strong>I love to eat food, play cricket and football and coding offcourse</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> What I like to do: <strong>I love to explore new places , eat food, play cricket and football and coding offcourse</strong></p>
 </li>
 </ul>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
